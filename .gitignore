@@ -1,3 +1,7 @@
+# Ignorar todos los .png dentro de EvidenciasDelDesarrollo
+EvidenciasDelDesarrollo/*.png
+EvidenciasDelDesarrollo/Manual.txt
+
+
+# Ignorar toda la carpeta ConfiguracionIDE
 ConfiguracionIDE/
-*.png
-Manual.txt
