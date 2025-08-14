@@ -1,3 +1,0 @@
-ConfiguracionIDE/
-*.png
-Manual.txt
